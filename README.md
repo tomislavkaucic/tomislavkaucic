@@ -5,10 +5,11 @@
 
 I do things with:
 
-- 🛍 Shopify
-- ⚛ React
-- 🎨 Figma
-- 💎 Ruby on Rails
+- 🛍 capitalist Shopify
+- ⚛ atomic React
+- 🎨 glorious Figma
+- 💎 flawless Ruby on Rails
+- ☕ at least three mugs of coffee per day
 
 Find me on:
 
