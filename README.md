@@ -1,6 +1,8 @@
 # Hi! I'm Tomo 👋
 
 - 👨‍💻 Frontend Panda @ [Bamboo Lab](https://bamboolab.eu)
+- 👨‍💻 Shopify Dev @ [Tako Agency](https://takoagency.com)
+- 👨‍💻 Vue Dev @ [920Four](https://920four.com)
 - ✍ Blogger @ [Tomoweb.dev](https://tomoweb.dev)
 
 I do things with:
